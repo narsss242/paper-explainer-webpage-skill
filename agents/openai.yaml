@@ -1,0 +1,4 @@
+interface:
+  display_name: 论文导读网页生成
+  short_description: 将论文和已有导读整理成中文静态学习网页，结合术语、原图与指标讲清方法
+  default_prompt: 请用 $paper-explainer-webpage-skill 处理我提供的材料，并按本次要求交付。
